@@ -1,0 +1,7 @@
+1- When you don't known how time your loop "while()" used most be
+
+2- If a question have sorted array to find a number , Then "Binary Search" must be used
+
+3- for sort - If you have "(0-N)" number then "Cyclic Sort" must be used
+
+4- 
